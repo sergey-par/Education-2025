@@ -1,0 +1,1463 @@
+/* Vector 3 */
+
+position: absolute;
+width: 1440px;
+height: 499px;
+left: 0px;
+top: 523px;
+
+background: #FFFFFF;
+border-radius: 17px;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 1463px;
+height: 557px;
+left: -1px;
+top: 477px;
+
+background: #F4F5F9;
+border-radius: 17px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 648px;
+height: 692px;
+left: 720px;
+top: 195px;
+
+background: url(.jpg);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 237px;
+height: 227px;
+left: 630px;
+top: 541px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+/* 10K */
+
+position: absolute;
+width: 183px;
+height: 126px;
+left: 676px;
+top: 541px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 77px;
+line-height: 93px;
+
+color: #000000;
+
+
+
+/* Lorem ipsum dolor sit */
+
+position: absolute;
+width: 146px;
+height: 92px;
+left: 683px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 26px;
+line-height: 31px;
+
+color: #000000;
+
+
+
+/* Frame 21 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+position: absolute;
+width: 674px;
+height: 439px;
+left: 72px;
+top: 335px;
+
+
+
+/* Frame 19 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 1px;
+
+width: 674px;
+height: 332px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* HELLO I AM */
+
+width: 453px;
+height: 108px;
+
+font-family: 'Train One';
+font-style: normal;
+font-weight: 400;
+font-size: 59px;
+line-height: 85px;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorehm ipsmum */
+
+width: 674px;
+height: 114px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 66px;
+line-height: 80px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet consectetur. Mollis feugiat . */
+
+width: 517px;
+height: 108px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 31px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 20 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 36px;
+
+width: 537px;
+height: 59px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px 31px;
+gap: 10px;
+
+width: 225px;
+height: 59px;
+
+background: #101C1B;
+border-radius: 27px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* START CONSULTING */
+
+width: 163px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 18 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 276px;
+height: 36px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+width: 14px;
+height: 15px;
+
+background: #00CF75;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit */
+
+width: 352px;
+height: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 22 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 125px;
+
+position: absolute;
+width: 1439px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: rgba(214, 214, 214, 0.39);
+
+
+/* Frame 23 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 157px;
+
+width: 942px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* H-removebg-preview 1 */
+
+width: 116px;
+height: 67px;
+
+background: url(H-removebg-preview.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 669px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 64px;
+height: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 66px;
+height: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Service */
+
+width: 83px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Portfolio */
+
+width: 95px;
+height: 33px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 49px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* contect */
+
+width: 112px;
+height: 32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 19px 35px;
+gap: 10px;
+
+width: 248px;
+height: 62.49px;
+
+border: 3px solid #D4BFEC;
+border-radius: 27px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 28px;
+height: 24.49px;
+
+background: #F8F8F8;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DOWNLOAD CV */
+
+width: 140px;
+height: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 24 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: -1px;
+top: 1016px;
+
+background: #FFFFFF;
+
+
+/* About Me */
+
+position: absolute;
+width: 241px;
+height: 61px;
+left: 72px;
+top: 1084px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* I like creating a cool design project */
+
+position: absolute;
+width: 470px;
+height: 35px;
+left: 74px;
+top: 1165px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 29px;
+line-height: 35px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 13px;
+
+position: absolute;
+width: 176px;
+height: 50px;
+left: 372px;
+top: 1320px;
+
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+width: 50px;
+height: 50px;
+
+background: url(تويتر تطلق ميزة إضافة صورة أو فيديو أو GIF عند القيام بإعادة تغريد);
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 2 */
+
+width: 50px;
+height: 50px;
+
+background: url(Μελίνα Ασλανίδου_ Το πρώτο μήνυμα μετά την ξαφνική λιποθυμία της);
+border-radius: 39px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 3 */
+
+box-sizing: border-box;
+
+width: 50px;
+height: 50px;
+
+background: url(محرر فيسبوك.jpg);
+border: 1px solid #000000;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 9 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 10px 10px 70px;
+gap: 54px;
+
+position: absolute;
+width: 633px;
+height: 74px;
+left: 72px;
+top: 1496px;
+
+background: #F7F8FD;
+border: 1px solid #000000;
+border-radius: 44px;
+
+
+/* Age: */
+
+width: 106px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 29 */
+
+width: 106px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 31px;
+
+position: absolute;
+width: 214px;
+height: 53px;
+left: 138px;
+top: 1586px;
+
+
+
+/* Residence: */
+
+width: 131px;
+height: 47px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* USA */
+
+width: 52px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 11 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 10px 10px 70px;
+gap: 30px;
+
+position: absolute;
+width: 633px;
+height: 74px;
+left: 72px;
+top: 1655px;
+
+background: #F7F8FD;
+border: 1px solid #000000;
+border-radius: 44px;
+
+
+/* Address: */
+
+width: 119px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet */
+
+width: 311px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 62px;
+
+position: absolute;
+width: 389px;
+height: 54px;
+left: 138px;
+top: 1745px;
+
+
+
+/* E-mail: */
+
+width: 85px;
+height: 54px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* email@example.com */
+
+width: 242px;
+height: 54px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 13 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 10px 10px 77px;
+gap: 35px;
+
+position: absolute;
+width: 633px;
+height: 74px;
+left: 72px;
+top: 1815px;
+
+background: #F7F8FD;
+border: 1px solid #000000;
+border-radius: 44px;
+
+
+/* Phone: */
+
+width: 97px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 011254698751 */
+
+width: 181px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 21px;
+
+position: absolute;
+width: 252px;
+height: 53px;
+left: 138px;
+top: 1905px;
+
+
+
+/* Freelance: */
+
+width: 131px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Available */
+
+width: 100px;
+height: 53px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 0px;
+/* or 0% */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 641px;
+height: 503px;
+left: 756px;
+top: 1458px;
+
+border: 5px solid #8E7AB8;
+border-radius: 27px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 280px;
+height: 200px;
+left: 1089px;
+top: 1492px;
+
+
+
+/* Rectangle 15 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 277.37px;
+height: 198.56px;
+left: 1089px;
+top: 1492px;
+
+border-width: 11px 1px 1px 11px;
+border-style: solid;
+border-color: #398E8A;
+border-radius: 29px;
+
+
+/* Rectangle 16 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 274.67px;
+height: 194.7px;
+left: 1094.33px;
+top: 1497.3px;
+
+border: 11px solid #074643;
+border-radius: 29px;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 280px;
+height: 200px;
+left: 779px;
+top: 1492px;
+
+
+
+/* Rectangle 19 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 278.28px;
+height: 200px;
+left: 779px;
+top: 1492px;
+
+border-width: 11px 1px 11px 11px;
+border-style: solid;
+border-color: #398E8A;
+border-radius: 29px;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 137.79px;
+height: 187.47px;
+left: 921.21px;
+top: 1498.5px;
+
+border: 11px solid #074643;
+border-radius: 29px;
+
+
+/* Group 5 */
+
+position: absolute;
+width: 287.97px;
+height: 205.16px;
+left: 1084px;
+top: 1713px;
+
+
+
+/* Rectangle 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 284.28px;
+height: 202.7px;
+left: 1084px;
+top: 1713px;
+
+border-width: 11px 1px 1px 11px;
+border-style: solid;
+border-color: #398E8A;
+border-radius: 29px;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 281.51px;
+height: 198.76px;
+left: 1090.46px;
+top: 1719.4px;
+
+border: 11px solid #074643;
+border-radius: 29px;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 280px;
+height: 200px;
+left: 781px;
+top: 1718px;
+
+
+
+/* Rectangle 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 280px;
+height: 200px;
+left: 781px;
+top: 1718px;
+
+border: 11px solid #398E8A;
+border-radius: 29px;
+
+
+/* Rectangle 22 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 140px;
+height: 98.84px;
+left: 915.09px;
+top: 1723.57px;
+
+border: 11px solid #074643;
+border-radius: 29px;
+
+
+/* Lorem ipsum dolor sit amet consectetur. Nibh quis a ut dignissim dolor enim ultricies sit vitae. Turpis lorem libero nisl mattis fermentum. Enim lectus pretium auctor diam morbi vulputate. Nec tortor nunc proin purus. */
+
+position: absolute;
+width: 534px;
+height: 190px;
+left: 781px;
+top: 1099px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+text-align: justify;
+
+color: #000000;
+
+
+
+/* 50% */
+
+position: absolute;
+width: 130px;
+height: 70px;
+left: 880px;
+top: 1542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 70px;
+
+color: #000000;
+
+
+
+/* 75% */
+
+position: absolute;
+width: 124px;
+height: 70px;
+left: 1187px;
+top: 1542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 70px;
+
+color: #000000;
+
+
+
+/* 38% */
+
+position: absolute;
+width: 129px;
+height: 70px;
+left: 880px;
+top: 1771px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 70px;
+
+color: #000000;
+
+
+
+/* 63% */
+
+position: absolute;
+width: 129px;
+height: 70px;
+left: 1186px;
+top: 1771px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 70px;
+
+color: #000000;
+
+
+
+/* Karem Marko */
+
+position: absolute;
+width: 304px;
+height: 133px;
+left: 844px;
+top: 1254px;
+
+font-family: 'Whisper';
+font-style: normal;
+font-weight: 400;
+font-size: 81px;
+line-height: 69px;
+/* or 85% */
+
+color: #000000;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+width: 138px;
+height: 0px;
+left: 1182px;
+top: 1630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+width: 138px;
+height: 0px;
+left: 858px;
+top: 1630px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+width: 138px;
+height: 0px;
+left: 859px;
+top: 1861px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+width: 138px;
+height: 0px;
+left: 1182px;
+top: 1861px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 0px;
+/* identical to box height, or 0% */
+
+color: #000000;
+
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 19px 35px;
+gap: 10px;
+
+position: absolute;
+width: 248px;
+height: 62.49px;
+left: 85px;
+top: 1321px;
+
+background: #101C1B;
+border-radius: 27px;
+
+
+/* Vector */
+
+width: 28px;
+height: 24.49px;
+
+background: #F8F8F8;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* DOWNLOAD CV */
+
+width: 140px;
+height: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
